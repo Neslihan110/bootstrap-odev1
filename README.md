@@ -1,2 +1,2 @@
-# bootstrap-odev1
+# Mobilya Mağazası
 ![alt text](https://i.resm.im/tYvCMy0.JPG)
